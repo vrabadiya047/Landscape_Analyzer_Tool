@@ -1,0 +1,6 @@
+matplotlib~=3.9.2
+pandas~=2.2.2
+numpy~=2.0.1
+requests~=2.32.3
+PyQt5~=5.15.11
+cx_Freeze~=7.2.0
